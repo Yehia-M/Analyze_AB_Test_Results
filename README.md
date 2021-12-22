@@ -12,5 +12,5 @@ I used python and its libraries such as:
 > * statsmodels
 
 Different techniques were used like:
-> * Hypothesis
+> * Hypothesis testing
 > * Logistic Regression
