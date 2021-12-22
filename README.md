@@ -4,3 +4,13 @@ Project for Udacity Data Analysis nanodegree
 * The answers are not only stastically, but also focus on the practical part
 
 > The data comes from e-commerce website and we are trying to find if the new web page is usefull or not
+
+I used python and its libraries such as:
+> * pandas 
+> * numpy 
+> * matplotlib
+> * statsmodels
+
+Different techniques were used like:
+> * Hypothesis
+> * Logistic Regression
